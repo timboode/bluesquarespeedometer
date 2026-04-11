@@ -24,3 +24,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/AndroidProjectSystem.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.omc/state/hud-stdin-cache.json
+/.idea/codeStyles/Project.xml
